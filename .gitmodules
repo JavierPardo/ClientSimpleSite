@@ -1,0 +1,3 @@
+[submodule "modules/commonCore"]
+	path = modules/commonCore
+	url = https://github.com/JavierPardo/CommonCore.git
